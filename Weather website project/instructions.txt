@@ -1,0 +1,2 @@
+1.Open html extension file on a web browser
+To get weather details enter city name and click submit button
